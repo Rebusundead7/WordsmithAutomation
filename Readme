@@ -1,0 +1,9 @@
+Download Firefox
+Download Visual Studio
+
+******If Referencs do not work correctly(I have seen this issue before)*******
+
+In Project right click on References>Manage Nuget Packages
+Search for Selenium.Webdriver and download Selenium Webdriver   
+Search for Selenium.Support and download Selenium Support
+Search for Selenium.Firefox.Webdriver and download Selenium Firefox Webdriver
