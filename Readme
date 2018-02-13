@@ -5,6 +5,8 @@ I used the 2015 build as it does not require Windows 10 to be install on the mac
 
 Install Visual Studios 2015 
 
+Make sure that if it says you need .Net or any additional installs that you accept them during the Visual Studio install.
+
 Once Installed and opened click File>Open Project
 Navigate to the solution on your local machine and open
 
