@@ -1,5 +1,20 @@
 Download Firefox
 Download Visual Studio
+https://www.visualstudio.com/vs/older-downloads/
+I used the 2015 build as it does not require Windows 10 to be install on the machine.
+
+Install Visual Studios 2015 
+
+Once Installed and opened click File>Open Project
+Navigate to the solution on your local machine and open
+
+The solution should open and the Test Explorer Visible on the left.
+Right click on any of the test and either click run or debug
+
+You can also use run all or run
+
+You can also run the tests from the Test tool header.
+
 
 ******If References do not work correctly(I have seen this issue before)*******
 
@@ -7,3 +22,11 @@ In Project right click on References>Manage Nuget Packages
 Search for Selenium.Webdriver and download Selenium Webdriver   
 Search for Selenium.Support and download Selenium Support
 Search for Selenium.Firefox.Webdriver and download Selenium Firefox Webdriver
+
+*******Final Thoughts and Additions************
+
+Add a log report that is generated after every run
+Currently you can only see fail or succeed
+
+Add ID tags into the code or classes to better hook into the text
+
