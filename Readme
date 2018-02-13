@@ -15,6 +15,10 @@ You can also use run all or run
 
 You can also run the tests from the Test tool header.
 
+************Test Explorer is not visible***********
+Click Test>Windows>Test Explorer
+
+
 
 ******If References do not work correctly(I have seen this issue before)*******
 
